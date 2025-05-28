@@ -65,6 +65,8 @@ let str = str1 + str2
 // console.log(undefined>=0)
 // console.log("2"===1) //Strictly check with the datatype
 
+
+//*******************************Memory Concept */
 //primitive datatypes's varibale goes to stack and non-primitive(referrence)'s variable goes to heap memory
 let var1 = "name"
 let var2 = var1 //In this the copy of var1 is assigned to var not the complete value of var1
